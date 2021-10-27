@@ -1,12 +1,13 @@
 <p float="left">
   <img src="https://assets.avenuecode.com/production-3c73ad58a1df43c9713c55e9baf045e9a5d7d7f5/images/avenue-code-logo-white-horizontal.svg" width="200px"/>
+  <p float = "right"\>
   <img src="https://www.pucminas.br/Style%20Library/PROCESSOSELETIVO/img/brasao.png" width="200"/> 
   <h2 align="center"> AC - Academy</h2>
   <img align="center" alt="AUR last modified" src="https://img.shields.io/github/last-commit/joaopedro-marques/AC-academy">
   
 </p>
 
-<p id="Sobre" align="Justify">Repositório de projetos, aulas e informações do bootcamp intensivo da Pan Academy, uma parceria entre o Banco Pan e Gama Academy com o foco em desenvolvimento Java, Spring e AWS. </p>
+<p id="Sobre" align="Justify">Repositório destinado aos estudos na Avenue Code Academy em parceria com a Puc Minas, com enfoque na linguagem Java e no framework Spring  </p>
 
 Tabela de conteúdos
 =================
