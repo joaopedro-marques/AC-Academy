@@ -13,6 +13,9 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Sobre)
+   * [Tipos primitivos, Strings e Objetos](#https://github.com/joaopedro-marques/AC-Academy/tree/main/Primitives%2CObjects%20and%20Strings)
+   * [Stream](#https://github.com/joaopedro-marques/AC-Academy/tree/main/learining-streams)
+   * [Básico](#https://github.com/joaopedro-marques/AC-Academy/tree/main/learning-java)
    
 <!--te-->
 
